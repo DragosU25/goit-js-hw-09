@@ -1,0 +1,10 @@
+.buttons-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 400px;
+  gap: 15px;
+}
+
+button {
+  padding: 5px 10px;
+}
